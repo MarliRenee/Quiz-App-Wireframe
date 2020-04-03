@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    max-width:1000px;
+    padding:1em;
+    font-family:Helvetica,Arial,sans-serif;
+}    
+ 
+
+header {
+    border:3px solid lightgray;
+    padding:15px;
+    margin-bottom:1em;
+}
+
+
+.QuestionsBox {
+    border:3px solid lightgray;
+    padding:60px;
+    margin-bottom:1em;
+}
